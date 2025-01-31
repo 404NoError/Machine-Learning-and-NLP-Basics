@@ -1,18 +1,18 @@
 # Machine-Learning-and-NLP-Basics
 Practice Project: Developing an AI-Powered System for Fraud Detection in Online Transactions
 
-Problem Statement
-
+**Problem Statement
+**
 Online transactions have become increasingly prevalent in modern commerce, facilitating convenient and efficient financial transactions globally. However, with the rise in digital transactions, there's a parallel increase in fraudulent activities, posing significant challenges to businesses and consumers alike. The need for effective fraud detection mechanisms is paramount to safeguarding financial assets, maintaining trust, and ensuring the integrity of online platforms.
 
 The problem at hand involves developing an AI-powered system specifically tailored for the detection of fraudulent activities in online transactions. Traditional rule-based approaches often fall short in detecting sophisticated fraud patterns, necessitating the utilization of advanced machine learning and deep learning techniques. The objective is to design a robust and scalable solution capable of accurately identifying fraudulent transactions while minimizing false positives to avoid inconveniencing legitimate users.
 
-Project Overview
-
+**Project Overview
+**
 The project aims to design and implement a robust fraud detection system for online transactions using both machine learning and deep learning techniques. With the increasing frequency of online transactions, there's a pressing need to detect fraudulent activities swiftly and accurately to mitigate financial losses and maintain trust among users.  
 
-The system must address several key challenges:
-
+**The system must address several key challenges:
+**
 Complex Fraud Patterns: Fraudsters continually evolve their tactics, employing intricate strategies to evade detection. The solution must be capable of identifying both known fraud patterns and previously unseen fraudulent behaviors.
 
 Imbalanced Data: Fraudulent transactions are typically rare compared to legitimate ones, resulting in imbalanced datasets. The system should handle this class imbalance effectively to prevent biased model predictions.
