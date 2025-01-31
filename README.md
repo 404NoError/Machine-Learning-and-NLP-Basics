@@ -1,8 +1,7 @@
 # Machine-Learning-and-NLP-Basics
 Practice Project: Developing an AI-Powered System for Fraud Detection in Online Transactions
 
-**Problem Statement
-**
+Problem Statement
 Online transactions have become increasingly prevalent in modern commerce, facilitating convenient and efficient financial transactions globally. However, with the rise in digital transactions, there's a parallel increase in fraudulent activities, posing significant challenges to businesses and consumers alike. The need for effective fraud detection mechanisms is paramount to safeguarding financial assets, maintaining trust, and ensuring the integrity of online platforms.
 
 The problem at hand involves developing an AI-powered system specifically tailored for the detection of fraudulent activities in online transactions. Traditional rule-based approaches often fall short in detecting sophisticated fraud patterns, necessitating the utilization of advanced machine learning and deep learning techniques. The objective is to design a robust and scalable solution capable of accurately identifying fraudulent transactions while minimizing false positives to avoid inconveniencing legitimate users.
